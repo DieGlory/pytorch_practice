@@ -1,2 +1,5 @@
 .vscode
 MNIST_data
+data
+legacy
+cifar_net.pth
